@@ -149,10 +149,6 @@ npm run preview
 
 ✅ Protected with RLS (Row Level Security)
 
-## 🚀 Deployment
-
-You can deploy this project on:
-
 ### Frontend
 
 -   Vercel
